@@ -813,7 +813,7 @@
 			<accessor>ObjectDef</accessor>
 			<into>client</into>
 			<methodname>getObjectDef</methodname>
-			<invokemethod>forID</invokemethod>
+			<invokemethod>I</invokemethod>
 			<desc>%sObjectDef</desc>
 			<argsdesc>(I)</argsdesc>
 		</add>
