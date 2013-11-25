@@ -81,7 +81,7 @@
 			<interface>SceneObjectTile</interface>
 		</add>
 		<add>
-			<classname>zI</classname>
+			<classname>I</classname>
 			<interface>Renderable</interface>
 		</add>
 		<add>
