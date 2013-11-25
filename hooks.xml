@@ -276,7 +276,7 @@
 		</add>
 		<add>
 			<accessor>Client</accessor>
-			<field>backDialogID</field>
+			<field>rJ</field>
 			<methodname>getChatboxInterfaceId</methodname>
 		</add>
 		<add>
