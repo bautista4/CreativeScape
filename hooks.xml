@@ -236,42 +236,42 @@
 		</add>
 		<add>
 			<accessor>Client</accessor>
-			<field>menuActionRow</field>
+			<field>UD</field>
 			<methodname>getMenuActionRow</methodname>
 		</add>
 		<add>
 			<accessor>Client</accessor>
-			<field>menuActionName</field>
+			<field>bF</field>
 			<methodname>getMenuActions</methodname>
 		</add>
 		<add>
 			<accessor>Client</accessor>
-			<field>menuOffsetX</field>
+			<field>EZ</field>
 			<methodname>getMenuOffsetX</methodname>
 		</add>
 		<add>
 			<accessor>Client</accessor>
-			<field>menuOffsetY</field>
+			<field>GZ</field>
 			<methodname>getMenuOffsetY</methodname>
 		</add>
 		<add>
 			<accessor>Client</accessor>
-			<field>menuScreenArea</field>
+			<field>AZ</field>
 			<methodname>getMenuScreenArea</methodname>
 		</add>
 		<add>
 			<accessor>Client</accessor>
-			<field>menuOpen</field>
+			<field>DI</field>
 			<methodname>isMenuOpen</methodname>
 		</add>
 		<add>
 			<accessor>Client</accessor>
-			<field>menuWidth</field>
+			<field>HZ</field>
 			<methodname>getMenuWidth</methodname>
 		</add>
 		<add>
 			<accessor>Client</accessor>
-			<field>menuHeight</field>
+			<field>KZ</field>
 			<methodname>getMenuHeight</methodname>
 		</add>
 		<add>
