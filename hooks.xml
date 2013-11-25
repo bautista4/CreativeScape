@@ -103,7 +103,7 @@
 		<!-- ======= since parabot v2.01 ======= -->
 		<add>
 			<classname>AI</classname>
-			<interface></interface>
+			<interface>ItemDef</interface>
 		</add>
 		<add>
 			<classname>WI</classname>
