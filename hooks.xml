@@ -103,7 +103,7 @@
 		<!-- ======= since parabot v2.01 ======= -->
 		<add>
 			<classname>AI</classname>
-			<interface>ItemDef</interface>
+			<interface></interface>
 		</add>
 		<add>
 			<classname>WI</classname>
@@ -236,7 +236,7 @@
 		</add>
 		<add>
 			<accessor>Client</accessor>
-			<field>menuActionRow</field>
+			<field>UD</field>
 			<methodname>getMenuActionRow</methodname>
 		</add>
 		<add>
@@ -256,12 +256,12 @@
 		</add>
 		<add>
 			<accessor>Client</accessor>
-			<field>menuScreenArea</field>
+			<field>AZ</field>
 			<methodname>getMenuScreenArea</methodname>
 		</add>
 		<add>
 			<accessor>Client</accessor>
-			<field>menuOpen</field>
+			<field>DI</field>
 			<methodname>isMenuOpen</methodname>
 		</add>
 		<add>
@@ -813,7 +813,7 @@
 			<accessor>ObjectDef</accessor>
 			<into>client</into>
 			<methodname>getObjectDef</methodname>
-			<invokemethod>I</invokemethod>
+			<invokemethod>forID</invokemethod>
 			<desc>%sObjectDef</desc>
 			<argsdesc>(I)</argsdesc>
 		</add>
