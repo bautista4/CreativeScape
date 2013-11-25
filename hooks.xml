@@ -281,7 +281,7 @@
 		</add>
 		<add>
 			<accessor>Client</accessor>
-			<field>openInterfaceID</field>
+			<field>s</field>
 			<methodname>getOpenInterfaceId</methodname>
 		</add>
 		<add>
