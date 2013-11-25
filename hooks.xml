@@ -208,7 +208,7 @@
 		</add>
 		<add>
 			<accessor>Client</accessor>
-			<field>ValueOf</field>
+			<field>valueOf</field>
 			<methodname>getNpcIndices</methodname>
 		</add>
 		<add>
@@ -219,7 +219,7 @@
 		</add>
 		<add>
 			<accessor>Client</accessor>
-			<field>playerArray</field>
+			<field>EI</field>
 			<methodname>getPlayers</methodname>
 			<desc>[%sPlayer</desc>
 		</add>
@@ -231,7 +231,7 @@
 		</add>
 		<add>
 			<accessor>Client</accessor>
-			<field>crossType</field>
+			<field>iI</field>
 			<methodname>getCrosshairType</methodname>
 		</add>
 		<add>
@@ -813,7 +813,7 @@
 			<accessor>ObjectDef</accessor>
 			<into>client</into>
 			<methodname>getObjectDef</methodname>
-			<invokemethod>I</invokemethod>
+			<invokemethod>forID</invokemethod>
 			<desc>%sObjectDef</desc>
 			<argsdesc>(I)</argsdesc>
 		</add>
