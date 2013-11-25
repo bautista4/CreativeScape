@@ -103,7 +103,7 @@
 		<!-- ======= since parabot v2.01 ======= -->
 		<add>
 			<classname>AI</classname>
-			<interface>ItemDef</interface>
+			<interface></interface>
 		</add>
 		<add>
 			<classname>WI</classname>
@@ -813,7 +813,7 @@
 			<accessor>ObjectDef</accessor>
 			<into>client</into>
 			<methodname>getObjectDef</methodname>
-			<invokemethod>I</invokemethod>
+			<invokemethod>forID</invokemethod>
 			<desc>%sObjectDef</desc>
 			<argsdesc>(I)</argsdesc>
 		</add>
